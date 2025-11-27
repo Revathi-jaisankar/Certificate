@@ -7,7 +7,10 @@
 👉 Add your PDF link here
 
 - Codebasics Certified SQL Associate – 2025
-👉 Add your PDF link here
+👉 Add your PDF link here [Download SQL Certificate (PDF)](https://github.com/Revathi-jaisankar/Certificate/blob/main/CB-50-615059.pdf)
+
+
+
 
 
 
